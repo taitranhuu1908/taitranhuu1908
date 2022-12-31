@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **tai.tranhuu2002@gmail.com**
 
+- 📄 Know about my experiences [http://huutai.tokyo/](http://huutai.tokyo/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/huutai.tran.543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="huutai.tran.543" height="30" width="40" /></a>
