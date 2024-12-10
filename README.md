@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **tai.tranhuu2002@gmail.com**
 
-- 📄 Know about my experiences [http://huutai.tokyo/](http://huutai.tokyo/)
+- 📄 Know about my experiences [https://huutai.me/](https://huutai.me/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
