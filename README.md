@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tran Huu Tai</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **tai.tranhuu2002@gmail.com**
 
 - 📄 Know about my experiences [https://huutai.me/](https://huutai.me/)
